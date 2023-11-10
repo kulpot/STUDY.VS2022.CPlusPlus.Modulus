@@ -26,6 +26,19 @@ doit proc			; proc -- procedure
 	; proc -- procedure - outside assembly program call, 
 	; labels -- looks like proc with ":"  , can only be called inside assembly program, while doit proc is outside 
 
+	; ------------------------------- Modulus ------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
 	;	----------------------------- Stepping Too Far per Iteration -----------------------------------
 	; ref link:https://www.youtube.com/watch?v=SE1VX4V1g-E&list=PLRwVmtr-pp05c1HTBj1no6Fl6C6mlxYDG&index=46
 
