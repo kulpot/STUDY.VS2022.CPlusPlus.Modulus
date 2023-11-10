@@ -28,6 +28,7 @@ doit proc			; proc -- procedure
 
 	; ------------------------------- Modulus ------------------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=zBA-7mUzC-w&list=PLRwVmtr-pp05c1HTBj1no6Fl6C6mlxYDG&index=45
+	; % - mudole
 
 	;; static data -- RAM -- Stack -- popping out of stack -- LIFO -- LastInFirstOut -- plate reference
 	;int count
